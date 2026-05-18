@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center">1234
   <h1>New<h1>
   <img src="./src-tauri/icons/icon.png" alt="Clash" width="128" />
   <br>
